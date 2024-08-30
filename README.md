@@ -1,3 +1,3 @@
 # Web Chaos Graph
 
-![Image](chaos.svg)
+![Image](output/chaos.excalidraw.svg)
