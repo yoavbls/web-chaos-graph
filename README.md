@@ -1,6 +1,6 @@
 # The Web Chaos Graph
 
-![Image](output/chaos.excalidraw.svg)
+![Image](output/chaos.svg)
 
 The graph maps the direct dependencies of the major web tools, libraries, and frameworks with [excalidraw](https://github.com/excalidraw/excalidraw).
 
