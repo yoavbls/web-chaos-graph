@@ -4,6 +4,8 @@
 
 The graph maps the direct dependencies of the major web tools, libraries, and frameworks with [excalidraw](https://github.com/excalidraw/excalidraw).
 
+\*dev dependencies connections are not drawn
+
 ## Contributing
 
 Any contributions are welcome: new tools, relations, fixes, etc.  
